@@ -31,47 +31,47 @@
     "emerald": {
       "50": {
         "$type": "color",
-        "$value": "#ecfdf5"
+        "$value": "#E6F3EF"
       },
       "100": {
         "$type": "color",
-        "$value": "#d1fae5"
+        "$value": "#CCE7E0"
       },
       "200": {
         "$type": "color",
-        "$value": "#a7f3d0"
+        "$value": "#99CEC1"
       },
       "300": {
         "$type": "color",
-        "$value": "#6ee7b7"
+        "$value": "#66B6A1"
       },
       "400": {
         "$type": "color",
-        "$value": "#34d399"
+        "$value": "#339D82"
       },
       "500": {
         "$type": "color",
-        "$value": "#10b981"
+        "$value": "#008563"
       },
       "600": {
         "$type": "color",
-        "$value": "#059669"
+        "$value": "#047359"
       },
       "700": {
         "$type": "color",
-        "$value": "#047857"
+        "$value": "#06614E"
       },
       "800": {
         "$type": "color",
-        "$value": "#065f46"
+        "$value": "#054F45"
       },
       "900": {
         "$type": "color",
-        "$value": "#064e3b"
+        "$value": "#053D38"
       },
       "950": {
         "$type": "color",
-        "$value": "#022c22"
+        "$value": "#092B28"
       }
     },
     "green": {
