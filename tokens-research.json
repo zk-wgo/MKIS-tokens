@@ -21958,6 +21958,68 @@
       }
     }
   },
+  "custom": {
+    "slate-t": {
+      "5": {
+        "$type": "color",
+        "$value": "#3B6DAE12"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#1243821A"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#19427D33"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "#2A446966"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "#2B3D5799"
+      },
+      "75": {
+        "$type": "color",
+        "$value": "#334155bf"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#334155"
+      }
+    },
+    "snow-t": {
+      "5": {
+        "$type": "color",
+        "$value": "#ffffff1a"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#ffffff26"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#ffffff40"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "#ffffff66"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "#ffffff99"
+      },
+      "75": {
+        "$type": "color",
+        "$value": "#ffffffbf"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    }
+  },
   "$themes": [
     {
       "id": "ae108eb486424d2547da3f55531d4243d09864d8",
@@ -25118,7 +25180,8 @@
       "aura/component",
       "aura/component/light",
       "aura/component/dark",
-      "app"
+      "app",
+      "custom"
     ]
   }
 }
